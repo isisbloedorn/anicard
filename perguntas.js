@@ -1,0 +1,5 @@
+criaCartão(
+    categoria,
+    pergunta,
+    resposta
+)
